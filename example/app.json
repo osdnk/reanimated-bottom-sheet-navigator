@@ -1,0 +1,22 @@
+{
+  "name": "reanimated-bottom-sheet-navigator-example",
+  "displayName": "ReanimatedBottomSheetNavigator Example",
+  "expo": {
+    "name": "reanimated-bottom-sheet-navigator-example",
+    "slug": "reanimated-bottom-sheet-navigator-example",
+    "description": "Example app for reanimated-bottom-sheet-navigator",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
